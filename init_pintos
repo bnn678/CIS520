@@ -1,0 +1,2 @@
+export PATH=/home/b/bnn678/cis520/pintos/src/utils:/home/b/bnn678/cis520/usr/local/bin:$PATH
+export BXSHARE=/home/b/bnn678/cis520/usr/local/share/bochs
